@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://matt123:matt123@music-app-wn1v2.mongodb.net/musicDB?retryWrites=true&w=majority",
+    "jwtSecret":"mysecret"
+}
